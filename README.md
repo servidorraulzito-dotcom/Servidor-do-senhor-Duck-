@@ -1,1 +1,1 @@
-# Servidor-do-senhor-Duck-
+# Servidor do duck
